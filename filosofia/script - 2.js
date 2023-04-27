@@ -1,13 +1,13 @@
 function textoa(){
-    document.getElementById('texto').innerHTML = "Multiplicação <br> Expressões numéricas são sequências de duas ou mais operações que devem ser realizadas respeitando determinada ordem.";
+    document.getElementById('texto').innerHTML = "Ética é a área da filosofia dedicada às ações e ao comportamento humano, filosofia moral. O objeto de estudo da ética são os princípios que orientam as ações humanas e a capacidade de avaliar essas ações.";
 }
 
 function textob(){
-    document.getElementById('texto').innerHTML = "Fração <br> Os números antes do sinal de igual são os fatores, e o valor após o sinal de igual é o produto. A multiplicação nada mais é do que uma soma sucessiva de um dos fatores";
+    document.getElementById('texto').innerHTML = "Moral trata-se de um conjunto de valores, normas e noções sobre o que é certo ou errado, proibido e permitido, dentro de uma determinada sociedade.";
 }
 
 function textoc(){
-    document.getElementById('texto').innerHTML = "Adição  <br> A adição é o ato de juntar elementos, uma das quatro operações básicas da aritmética.";
+    document.getElementById('texto').innerHTML = "Vida é uma palavra muito potente para representar medo, restrição e limite. Vida não pode ser finitude, vida é eternidade! A vida é liberdade, é o fluxo divino da criação que permeia tudo, em todos os tempos, espaços e dimensões que ainda desconhecemos. Vida é Deus transbordando sua infinitude.";
 }
 
 

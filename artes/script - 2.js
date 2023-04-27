@@ -1,13 +1,13 @@
 function textoa(){
-    document.getElementById('texto').innerHTML = "Multiplicação <br> Expressões numéricas são sequências de duas ou mais operações que devem ser realizadas respeitando determinada ordem.";
+    document.getElementById('texto').innerHTML = "Sombreamento ou shading refere-se à demonstração da percepção de profundidade em modelagem 3D ou ilustrações através da variação de níveis de escuridão.";
 }
 
 function textob(){
-    document.getElementById('texto').innerHTML = "Fração <br> Os números antes do sinal de igual são os fatores, e o valor após o sinal de igual é o produto. A multiplicação nada mais é do que uma soma sucessiva de um dos fatores";
+    document.getElementById('texto').innerHTML = "O Plano conceitualmente, a trajetória de uma linha em movimento, (em outra que não seja sua direção intrínseca) se torna um plano. Como elemento visual, possui comprimento e largura, tem posição e direção, é limitado por linhas e define os limites extremos de um volume.";
 }
 
 function textoc(){
-    document.getElementById('texto').innerHTML = "Adição  <br> A adição é o ato de juntar elementos, uma das quatro operações básicas da aritmética.";
+    document.getElementById('texto').innerHTML = "O ponto de fuga é um ente do plano de visão, que representa a interseção aparente de duas, ou mais, retas paralelas, segundo um observador num dado momento. Ele também pode ser chamado apenas de fuga.";
 }
 
 

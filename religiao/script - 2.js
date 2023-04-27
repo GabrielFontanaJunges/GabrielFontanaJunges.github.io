@@ -1,13 +1,13 @@
 function textoa(){
-    document.getElementById('texto').innerHTML = "Multiplicação <br> Expressões numéricas são sequências de duas ou mais operações que devem ser realizadas respeitando determinada ordem.";
+    document.getElementById('texto').innerHTML = "Para os evangélicos, a páscoa é oriunda da passagem da bíblia em que Deus orienta Moisés a atravessar o mar vermelho. Aquele dia, que podia ser o último dos Judeus, se tornou um dia de libertação. Para nós, Cristo é essa passagem, libertação.";
 }
 
 function textob(){
-    document.getElementById('texto').innerHTML = "Fração <br> Os números antes do sinal de igual são os fatores, e o valor após o sinal de igual é o produto. A multiplicação nada mais é do que uma soma sucessiva de um dos fatores";
+    document.getElementById('texto').innerHTML = "Conhecida pelos judeus como Pessach, que significa passagem, a Páscoa judaica é uma tradição milenar, que relembra a libertação do povo hebreu da escravidão no Egito.";
 }
 
 function textoc(){
-    document.getElementById('texto').innerHTML = "Adição  <br> A adição é o ato de juntar elementos, uma das quatro operações básicas da aritmética.";
+    document.getElementById('texto').innerHTML = "Neste ano, o tema da Campanha da Fraternidade é “Fraternidade e Fome”, com o lema “Dai-lhes vós mesmos de comer!”";
 }
 
 
