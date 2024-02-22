@@ -1,0 +1,21 @@
+.texto{
+    border: 1px dashed grey;
+}
+
+.container > img{
+    width: 45%;
+}
+
+.texto{
+    width: 54%;
+}
+
+.container{
+    border:1px solid grey;
+    display:flex;
+    justify-content: space-between;
+}
+
+.marcado{
+    color: darkmagenta;
+}
